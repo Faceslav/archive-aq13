@@ -1,0 +1,457 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"bv" = (
+/obj/structure/table/wood,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/flashlight/lamp,
+/turf/open/floor/plating,
+/area/template_noop)
+"cw" = (
+/obj/structure/table/wood,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/folder,
+/obj/item/pen,
+/turf/open/floor/wood{
+	icon_state = "wood-broken5"
+	},
+/area/template_noop)
+"cU" = (
+/obj/structure/table/wood,
+/obj/item/storage/pill_bottle/dice,
+/turf/open/floor/carpet,
+/area/template_noop)
+"hL" = (
+/obj/structure/table/wood,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/folder,
+/obj/item/pen,
+/turf/open/floor/plating,
+/area/template_noop)
+"jI" = (
+/obj/structure/table/wood,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/paicard,
+/turf/open/floor/carpet,
+/area/template_noop)
+"kf" = (
+/obj/structure/chair/office,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/template_noop)
+"kO" = (
+/obj/structure/chair/office{
+	dir = 4
+	},
+/turf/open/floor/plasteel/grimy,
+/area/template_noop)
+"lN" = (
+/obj/structure/bookcase,
+/obj/effect/decal/cleanable/cobweb,
+/turf/open/floor/wood,
+/area/template_noop)
+"mw" = (
+/obj/structure/table/wood,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/taperecorder,
+/turf/open/floor/plasteel/dark,
+/area/template_noop)
+"ns" = (
+/obj/structure/chair/office{
+	dir = 8
+	},
+/turf/open/floor/plasteel/grimy,
+/area/template_noop)
+"oR" = (
+/obj/effect/decal/cleanable/garbage,
+/turf/open/floor/plasteel/grimy,
+/area/template_noop)
+"qk" = (
+/obj/structure/chair/office{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/grimy,
+/area/template_noop)
+"ql" = (
+/obj/structure/table/wood,
+/obj/item/clothing/under/rank/civilian/curator,
+/obj/effect/spawner/lootdrop/maintenance/two,
+/turf/open/floor/wood,
+/area/template_noop)
+"ro" = (
+/turf/open/floor/plasteel/grimy,
+/area/template_noop)
+"rV" = (
+/turf/closed/wall,
+/area/template_noop)
+"sc" = (
+/obj/structure/dresser,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/template_noop)
+"sx" = (
+/obj/effect/decal/remains/human,
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/plasteel/dark,
+/area/template_noop)
+"tR" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/door/morgue{
+	name = "Occult Study"
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/template_noop)
+"wp" = (
+/obj/structure/bookcase/random/fiction,
+/turf/open/floor/wood,
+/area/template_noop)
+"yz" = (
+/obj/structure/table/wood,
+/obj/item/clipboard,
+/obj/item/folder/red,
+/turf/open/floor/carpet,
+/area/template_noop)
+"Ac" = (
+/obj/structure/table/wood,
+/obj/item/paper_bin,
+/obj/item/pen,
+/turf/open/floor/wood{
+	icon_state = "wood-broken2"
+	},
+/area/template_noop)
+"CI" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/grimy,
+/area/template_noop)
+"CY" = (
+/obj/structure/easel,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/canvas/twentythreeXtwentythree,
+/obj/item/canvas/twentythreeXtwentythree,
+/obj/machinery/light/small,
+/turf/open/floor/plating,
+/area/template_noop)
+"DT" = (
+/obj/structure/bookcase/random/reference,
+/turf/open/floor/wood,
+/area/template_noop)
+"DU" = (
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/obj/item/twohanded/required/kirbyplants/random,
+/turf/open/floor/plasteel/grimy,
+/area/template_noop)
+"Ew" = (
+/obj/structure/chair/office,
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/template_noop)
+"Gj" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/twohanded/required/kirbyplants/random,
+/turf/open/floor/wood{
+	icon_state = "wood-broken"
+	},
+/area/template_noop)
+"Ih" = (
+/obj/structure/chair/office{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/template_noop)
+"IW" = (
+/obj/structure/bed/maint,
+/turf/open/floor/plasteel/dark,
+/area/template_noop)
+"Lq" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood,
+/area/template_noop)
+"LJ" = (
+/obj/structure/table/wood,
+/obj/item/toy/cards/deck/cas{
+	pixel_x = -5;
+	pixel_y = 5
+	},
+/obj/item/toy/cards/deck/cas/black{
+	pixel_x = 5;
+	pixel_y = 5
+	},
+/turf/open/floor/carpet,
+/area/template_noop)
+"Mq" = (
+/obj/structure/destructible/cult/tome,
+/obj/effect/decal/cleanable/cobweb,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/plating,
+/area/template_noop)
+"MQ" = (
+/obj/structure/bookcase,
+/obj/effect/decal/cleanable/cobweb,
+/obj/structure/bookcase/random/nonfiction,
+/turf/open/floor/wood,
+/area/template_noop)
+"MY" = (
+/obj/structure/table/wood,
+/obj/effect/decal/cleanable/cobweb,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/paper_bin,
+/obj/item/pen,
+/turf/open/floor/plating,
+/area/template_noop)
+"Na" = (
+/obj/structure/chair/office{
+	dir = 4
+	},
+/turf/open/floor/wood{
+	icon_state = "wood-broken5"
+	},
+/area/template_noop)
+"Ne" = (
+/obj/structure/table/wood,
+/obj/item/folder,
+/obj/item/pen,
+/turf/open/floor/wood,
+/area/template_noop)
+"Nr" = (
+/turf/open/floor/wood{
+	icon_state = "wood-broken4"
+	},
+/area/template_noop)
+"NV" = (
+/obj/structure/chair/office{
+	dir = 1
+	},
+/turf/open/floor/plasteel/grimy,
+/area/template_noop)
+"Od" = (
+/obj/structure/chair/office{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/template_noop)
+"Of" = (
+/obj/machinery/photocopier,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/template_noop)
+"Pl" = (
+/obj/item/twohanded/required/kirbyplants/random,
+/turf/open/floor/wood{
+	icon_state = "wood-broken7"
+	},
+/area/template_noop)
+"Pm" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/item/organ/tongue/bone,
+/turf/open/floor/plating,
+/area/template_noop)
+"Sf" = (
+/turf/open/floor/wood{
+	icon_state = "wood-broken7"
+	},
+/area/template_noop)
+"Tt" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/remains/human,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/template_noop)
+"Ua" = (
+/obj/structure/table/wood,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/paper_bin,
+/obj/item/pen,
+/turf/open/floor/wood,
+/area/template_noop)
+"Ui" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/landmark/blobstart,
+/turf/open/floor/plating,
+/area/template_noop)
+"Vh" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/obj/structure/table_frame/wood,
+/turf/open/floor/plating,
+/area/template_noop)
+"Wz" = (
+/mob/living/simple_animal/cockroach,
+/turf/open/floor/wood,
+/area/template_noop)
+"Xd" = (
+/obj/structure/bookcase,
+/turf/open/floor/wood,
+/area/template_noop)
+"Xz" = (
+/obj/structure/bookcase/random/adult,
+/turf/open/floor/plasteel/dark,
+/area/template_noop)
+"Yt" = (
+/obj/structure/chair/office,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/grimy,
+/area/template_noop)
+"Zx" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/plasteel/grimy,
+/area/template_noop)
+"ZJ" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/template_noop)
+
+(1,1,1) = {"
+MY
+Vh
+Xd
+wp
+ro
+ro
+Xd
+wp
+kf
+bv
+"}
+(2,1,1) = {"
+hL
+Ih
+Lq
+Lq
+ro
+ro
+Sf
+Sf
+Wz
+cw
+"}
+(3,1,1) = {"
+lN
+MQ
+MQ
+lN
+ro
+Zx
+DT
+Xd
+Na
+ql
+"}
+(4,1,1) = {"
+Xd
+Xd
+lN
+lN
+oR
+ro
+Xd
+Xd
+Ne
+Ua
+"}
+(5,1,1) = {"
+ro
+ro
+ro
+ro
+ro
+ro
+CI
+CI
+CI
+CI
+"}
+(6,1,1) = {"
+Zx
+ro
+ro
+ro
+ro
+ro
+CI
+CI
+CI
+CI
+"}
+(7,1,1) = {"
+Pl
+ro
+qk
+kO
+Ui
+ZJ
+Lq
+Wz
+Nr
+CY
+"}
+(8,1,1) = {"
+Gj
+Yt
+jI
+LJ
+ro
+rV
+rV
+rV
+tR
+rV
+"}
+(9,1,1) = {"
+Of
+Ew
+cU
+yz
+NV
+rV
+Mq
+sx
+IW
+sc
+"}
+(10,1,1) = {"
+Ac
+DU
+ns
+Od
+CI
+rV
+Xz
+Pm
+Tt
+mw
+"}
